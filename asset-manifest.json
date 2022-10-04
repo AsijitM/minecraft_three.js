@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/minecraft_three.js/static/css/main.03d385f0.chunk.css",
+    "main.js": "/minecraft_three.js/static/js/main.0965baf4.chunk.js",
+    "main.js.map": "/minecraft_three.js/static/js/main.0965baf4.chunk.js.map",
+    "runtime-main.js": "/minecraft_three.js/static/js/runtime-main.d0cf236f.js",
+    "runtime-main.js.map": "/minecraft_three.js/static/js/runtime-main.d0cf236f.js.map",
+    "static/js/2.5cd869d6.chunk.js": "/minecraft_three.js/static/js/2.5cd869d6.chunk.js",
+    "static/js/2.5cd869d6.chunk.js.map": "/minecraft_three.js/static/js/2.5cd869d6.chunk.js.map",
+    "index.html": "/minecraft_three.js/index.html",
+    "static/css/main.03d385f0.chunk.css.map": "/minecraft_three.js/static/css/main.03d385f0.chunk.css.map",
+    "static/js/2.5cd869d6.chunk.js.LICENSE.txt": "/minecraft_three.js/static/js/2.5cd869d6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0cf236f.js",
+    "static/js/2.5cd869d6.chunk.js",
+    "static/css/main.03d385f0.chunk.css",
+    "static/js/main.0965baf4.chunk.js"
+  ]
+}
